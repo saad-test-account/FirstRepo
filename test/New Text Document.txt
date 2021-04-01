@@ -1,0 +1,44 @@
+smartworks wali email
+smartworks123
+username 
+saad-123-code
+-------
+
+
+------- github commands---------
+pwd  pring working directory
+cd   change directory
+dir   list files in a a directory
+copy con create an empty file
+mkdir   create an empty folder
+https://git-scm.com/download/win
+git config --global user.name "username"
+git config --global user.email "email@example.com"
+only checking :
+git config --global user.name
+git config --global user.email
+git clone URL
+git checkout name (branch/repo)
+git status
+atom name(your post req open in editor)
+git add (for adding)
+git commit (for commiting) -m "for writting any text"
+git push (for puch your req)
+e.g: for pull
+select new pull request
+select base as master and compare as your branch then add tittle and description and click create pull request
+git marge branch name
+--------------------------------------------
+git config --global user.name "username"
+git config --global user.email "email@example.com"
+git init  -- initialize a local git repository
+git add (for adding)
+git diff -- view the changes made to the file
+git commit (for commiting) -m "for writting any text"
+git reset  -- undo local channges
+git status  -- display the working state of working directory
+git marge branch (name) -- merge a brach into a active branch
+git push -- used to push your content from a local repository to the remote
+git pull -- fatch and download content from a remote repository to the local 
+select new pull request
+select base as master and compare as your branch then add tittle and description and click create pull request
